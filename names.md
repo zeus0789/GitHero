@@ -9,11 +9,16 @@ Ananya Agrawal - Sneha
 Ayush Gupta
 
 Ayush Gupta
+Ayush Gupta - BlaBlaBlaa
+
+Ritik Harchani
+Shivay Lamba
+
 
 Manthan Surkar - kendal jener
 Ananya Agrawal - Sneha
 Ayush Gupta
-Abhishek Tiwari
+Abhishek Tiwari - Batman
 Ayush Gupta
 Ayush Gupta
 Anmol Chugh
@@ -29,7 +34,6 @@ Karan Agrawal
 Ritik Harchani - Palak Mishra
 
 Ayush Gupta
-
 Satyam Kumar
 Anmol Chugh
 Anubhav Patel - Mewtoo
